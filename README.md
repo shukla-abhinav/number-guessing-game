@@ -12,7 +12,7 @@ Welcome to the Number Guessing Game project! This is a simple web-based game whe
 
 ## Demo
 
-[Click here to play](#https://shukla-abhinav.github.io/number-guessing-game/) - Live demo of number guessing game.
+[Click here to play](https://shukla-abhinav.github.io/number-guessing-game/) - Live demo of number guessing game.
 
 ## Features
 
