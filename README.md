@@ -26,7 +26,7 @@ Welcome to the Number Guessing Game project! This is a simple web-based game whe
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/number-guessing-game.git
+    git clone https://github.com/shukla-abhinav/number-guessing-game.git
     ```
 
 2. Open `index.html` in your web browser.
